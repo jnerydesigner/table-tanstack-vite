@@ -1,6 +1,7 @@
 import { Input } from "./ui/input";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
+import type { BaseSyntheticEvent } from "react";
 
 import { z } from "zod";
 import { Button } from "./ui/button";
@@ -40,7 +41,8 @@ export const FormCreatePost = () => {
     resolver: zodResolver(postSchema),
   });
 
-  const onSubmit = (data: PostType) => {
+  const onSubmit = (data: PostType, event?: BaseSyntheticEvent) => {
+    event?.preventDefault();
     console.log(data);
 
     const id = uuidv4();
