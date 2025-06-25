@@ -1,0 +1,88 @@
+{
+  "authors": [
+    {
+      "id": "c614b743-8fbb-44cd-b82b-c65d0759cfee",
+      "name": "Dr. Marina Silva",
+      "bio": "Nutricionista e palestrante sobre bem‑estar."
+    },
+    {
+      "id": "edeb724a-72ef-4c4c-a2a3-8c7fb351db89",
+      "name": "Carlos Pereira",
+      "bio": "Educador físico e entusiasta de saúde holística."
+    }
+  ],
+  "posts": [
+    {
+      "id": "edeb724a-72ef-4c4c-a2a3-8c7fb351db89",
+      "authorId": "c614b743-8fbb-44cd-b82b-c65d0759cfee",
+      "title": "10 hábitos saudáveis para o dia a dia",
+      "views": 1250,
+      "urlImg": "https://thumbs.dreamstime.com/b/health-concept-cubes-text-as-image-36409092.jpg",
+      "summary": "Confira dicas simples para melhorar a alimentação e bem‑estar."
+    },
+    {
+      "id": "776a8b96-947f-4d5c-b5ec-111d1bf498e3",
+      "authorId": "edeb724a-72ef-4c4c-a2a3-8c7fb351db89",
+      "title": "Exercícios matinais para começar bem o dia",
+      "views": 890,
+      "urlImg": "https://thumbs.dreamstime.com/b/healthy-living-mind-map-flowchart-active-197902949.jpg",
+      "summary": "Rotina rápida de alongamentos e atividades leves."
+    },
+    {
+      "id": "68f34562-55a9-446d-a62c-f8fda7978889",
+      "authorId": "edeb724a-72ef-4c4c-a2a3-8c7fb351db89",
+      "title": "Como prevenir o estresse e melhorar seu sono",
+      "views": 760,
+      "urlImg": "https://thumbs.dreamstime.com/b/health-wellbeing-wellness-vitality-healthcare-concept-74311002.jpg",
+      "summary": "Técnicas simples para lidar com ansiedade e sono de qualidade."
+    },
+    {
+      "id": "ffff0d09-0718-4034-b73a-986a03bbe240",
+      "authorId": "c614b743-8fbb-44cd-b82b-c65d0759cfee",
+      "summary": "sumario do post",
+      "title": "titulo do post",
+      "urlImg": "https://ui.shadcn.com/docs/installation/vite",
+      "views": 1
+    },
+    {
+      "id": "61da9e32-5edf-4d12-8b3a-9dcb9e2c4790",
+      "authorId": "c614b743-8fbb-44cd-b82b-c65d0759cfee",
+      "summary": "adaad",
+      "title": "sasas",
+      "urlImg": "https://ui.shadcn.com/docs/installation/vite",
+      "views": 1
+    },
+    {
+      "id": "19d19bea-03f0-4974-ab68-f10142edb761",
+      "authorId": "c614b743-8fbb-44cd-b82b-c65d0759cfee",
+      "summary": "dadad",
+      "title": "adada",
+      "urlImg": "https://ui.shadcn.com/docs/installation/vite",
+      "views": 1
+    },
+    {
+      "id": "27eb82a7-0089-47ce-b547-02d52af24604",
+      "authorId": "c614b743-8fbb-44cd-b82b-c65d0759cfee",
+      "summary": "dadad",
+      "title": "dadad",
+      "urlImg": "https://ui.shadcn.com/docs/installation/vite",
+      "views": 1
+    },
+    {
+      "id": "7c2c49c4-547d-4b7f-aba1-c9f2f033aac0",
+      "authorId": "c614b743-8fbb-44cd-b82b-c65d0759cfee",
+      "summary": "dadad",
+      "title": "adada",
+      "urlImg": "https://ui.shadcn.com/docs/installation/vite",
+      "views": 1
+    },
+    {
+      "id": "f3583add-ac23-47e6-99a9-54b1797ba992",
+      "authorId": "c614b743-8fbb-44cd-b82b-c65d0759cfee",
+      "summary": "dadada",
+      "title": "dadadad",
+      "urlImg": "https://ui.shadcn.com/docs/installation/vite",
+      "views": 1
+    }
+  ]
+}
